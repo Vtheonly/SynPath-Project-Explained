@@ -1,0 +1,73 @@
+{
+  "name": "@synpath/footer",
+  "version": "1.0.0",
+  "description": "SynPath site footer — project attribution and links",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "vtheonly",
+  "homepage": "https://github.com/Vtheonly/SynPath-Project-Explained",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vtheonly/SynPath-Project-Explained"
+  },
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "dependencies": {
+    "@quartz-community/types": "github:quartz-community/types",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "preact": "^10.28.2",
+    "sass": "^1.97.3"
+  },
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10.9.2"
+  },
+  "quartz": {
+    "name": "footer",
+    "displayName": "Footer",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "links": {
+        "GitHub": "https://github.com/Vtheonly/SynPath-Project-Explained"
+      }
+    },
+    "components": {
+      "Footer": {
+        "displayName": "Footer",
+        "defaultPosition": "footer",
+        "defaultPriority": 50
+      }
+    }
+  }
+}
