@@ -84,7 +84,8 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
-        <meta name="generator" content="Quartz" />
+        {/* SynPath-Project-Explained: local rebrand of the default generator tag */}
+        <meta name="generator" content="SynPath-Project-Explained" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
