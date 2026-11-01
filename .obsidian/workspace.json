@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "7ac58874c28523d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "68484c63dab78d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae216cc275c18e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt"
+            }
+          },
+          {
+            "id": "b0df332805ba5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-SynTree AI/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b31d2e9009def70",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf3ad89477a4117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c77b8e7a27a725a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e2967b3b87a1a9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "syntho",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "293d825f81c24eb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8e58b1382e19573",
+    "type": "split",
+    "children": [
+      {
+        "id": "07476f1cd7015183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f922b3a4cf8ad05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SynPath-3D Computational Systems & Deep Learning Vault/1. 1. Limitations of Grid Convolutions for Molecular Geometry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f92ca72efa5d55ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SynPath-3D Computational Systems & Deep Learning Vault/1. 1. Limitations of Grid Convolutions for Molecular Geometry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "22481640407b01d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "078ea2a1e4cfd437",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "10db26b0936298cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SynPath-3D Computational Systems & Deep Learning Vault/1. 1. Limitations of Grid Convolutions for Molecular Geometry.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b0df332805ba5ce7",
+  "lastOpenFiles": [
+    "3D-SynTree Chemsitrey/00. Master Index and System Map/1. 3D-SynTree System Overview.md",
+    "3D-SynTree AI/Untitled.md",
+    "3D-SynTree AI",
+    "3D-SynTree Chemsitrey/00. Master Index and System Map/0. Master Vault Index.md",
+    "Prompt.md",
+    "3D-SynTree Chemsitrey/_entire_project_.txt",
+    "3D-SynTree Chemsitrey/10. Benchmarking and Wet Lab Translation/Chapter 2. Wet Lab Translation/2. SPR Kinetics and X-Ray Complex Confirmation.md",
+    "3D-SynTree Chemsitrey/10. Benchmarking and Wet Lab Translation/Chapter 2. Wet Lab Translation/1. Assay Cascade Strategy and nanoDSF.md",
+    "3D-SynTree Chemsitrey/10. Benchmarking and Wet Lab Translation/Chapter 1. Computational Benchmarking/3. Baseline Comparisons TargetDiff SyntheMol.md",
+    "3D-SynTree Chemsitrey/10. Benchmarking and Wet Lab Translation/Chapter 1. Computational Benchmarking/2. AiZynthFinder Retrosynthetic Solvability.md",
+    "3D-SynTree Chemsitrey/10. Benchmarking and Wet Lab Translation/Chapter 1. Computational Benchmarking/1. PoseBusters Physical Sanity Filters.md",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 2. GFlowNet Theory and Training/4. Curriculum Learning Approach C Quantiles.md",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 2. GFlowNet Theory and Training/3. Stationary Terminal Reward Formulation.md",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 2. GFlowNet Theory and Training/2. Multi Path Probability and Backward Flows.md",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 2. GFlowNet Theory and Training/1. Trajectory Balance GFlowNets Theory.md",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 1. The Assembly MDP/2. Derivation Trees vs Molecular DAGs.md",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 1. The Assembly MDP/1. The Assembly MDP Formulation.md",
+    "3D-SynTree Chemsitrey/08. Circular Statistics and Torsion Heads/Chapter 2. Torsion Prediction Design/2. Sub Bin Pocket Conditioned Dihedral Refinement.md",
+    "3D-SynTree Chemsitrey/08. Circular Statistics and Torsion Heads/Chapter 2. Torsion Prediction Design/1. Categorical Binned vs Continuous Torsion Space.md",
+    "3D-SynTree Chemsitrey/08. Circular Statistics and Torsion Heads/Chapter 1. Circular Statistics Foundations/3. Modified Bessel Functions and Amos Ratio.md",
+    "3D-SynTree Chemsitrey/08. Circular Statistics and Torsion Heads/Chapter 1. Circular Statistics Foundations/2. The von Mises Distribution.md",
+    "3D-SynTree Chemsitrey/08. Circular Statistics and Torsion Heads/Chapter 1. Circular Statistics Foundations/1. Statistics on Riemannian Manifolds SO2.md",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 2. Equivariant Architectures for Structure Based Design/3. Cross Attention Decoders for SBDD.md",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 2. Equivariant Architectures for Structure Based Design/2. Bipartite Heterogeneous Protein Ligand Graphs.md",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 2. Equivariant Architectures for Structure Based Design/1. PaiNN Polarizable Interaction Networks.md",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 1. Symmetry Groups and Equivariant Foundations/3. Radial Basis Functions and Cosine Cutoffs.md",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 1. Symmetry Groups and Equivariant Foundations/2. Invariance vs Equivariance in Molecular Clouds.md",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 1. Symmetry Groups and Equivariant Foundations/1. Group Theory E3 SE3 SO3 and SO2.md",
+    "3D-SynTree Chemsitrey/10. Benchmarking and Wet Lab Translation/Chapter 2. Wet Lab Translation",
+    "3D-SynTree Chemsitrey/10. Benchmarking and Wet Lab Translation/Chapter 1. Computational Benchmarking",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 2. GFlowNet Theory and Training",
+    "3D-SynTree Chemsitrey/09. Markov Decision Processes and GFlowNets/Chapter 1. The Assembly MDP",
+    "3D-SynTree Chemsitrey/08. Circular Statistics and Torsion Heads/Chapter 2. Torsion Prediction Design",
+    "3D-SynTree Chemsitrey/08. Circular Statistics and Torsion Heads/Chapter 1. Circular Statistics Foundations",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 2. Equivariant Architectures for Structure Based Design",
+    "3D-SynTree Chemsitrey/07. Geometric Deep Learning and Equivariance/Chapter 1. Symmetry Groups and Equivariant Foundations",
+    "Untitled.canvas"
+  ]
+}
